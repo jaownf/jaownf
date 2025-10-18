@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jaownf&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=ffffff&text_color=ffffff&bg_color=ffffff" alt="João Pedro Martins github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaownf&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=ffffff" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jaownf&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="João Pedro Martins github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaownf&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaownf&bg_color=000000&color=ffffff&line=ffffff&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
