@@ -20,19 +20,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-ffffff?style=for-the-badge&logo=react&labelColor=ffffff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript&labelColor=ffffff&textColor=ffffff)&nbsp;
  
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=ffffff)&nbsp;
-![Git](https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&labelColor=ffffff)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&logo=github&labelColor=ffffff)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-ffffff?style=for-the-badge&logo=windows&labelColor=ffffff)&nbsp;
  
-### Other Knowledge:
-![CSS](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=ffffff)&nbsp;
-![Python](https://img.shields.io/badge/-python-ffffff?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=ffffff)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-ffffff?style=for-the-badge&logo=bootstrap&labelColor=ffffff)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-ffffff?style=for-the-badge&logo=mysql&labelColor=ffffff)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-ffffff?style=for-the-badge&logo=figma&labelColor=ffffff)&nbsp;
-  
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-ffffff?style=for-the-badge&logo=node.js&labelColor=ffffff&textColor=ffffff)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-ffffff?style=for-the-badge&logo=react&labelColor=ffffff)&nbsp;
