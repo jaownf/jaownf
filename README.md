@@ -14,9 +14,7 @@
  
  
 ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-ffffff?style=for-the-badge&logo=node.js&labelColor=ffffff&textColor=ffffff)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-ffffff?style=for-the-badge&logo=react&labelColor=ffffff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=ffffff)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
