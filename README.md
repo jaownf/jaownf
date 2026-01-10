@@ -15,6 +15,7 @@
  
 ### Studying in this moment:
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
