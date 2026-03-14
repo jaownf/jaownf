@@ -6,10 +6,9 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-ffffff?style=for-the-badge&logo=node.js&labelColor=ffffff&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-ffffff?style=for-the-badge&logo=react&labelColor=ffffff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript&labelColor=ffffff&textColor=ffffff)&nbsp;
- 
+
  
 ### Studying in this moment:
-![C#](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!-- <div align="center">
